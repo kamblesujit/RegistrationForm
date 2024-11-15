@@ -35,8 +35,17 @@ button {
   cursor: pointer;
 }
 
-th,
-td {
-  padding: 8px;
-  text-align: left;
+.hr_line {
+  margin-top: 15px;
+  background-color: #ccc;
+  height: 2px;
+  border-radius: 50%;
+  width: 300px;
+}
+
+.r_details {
+  background-color: blanchedalmond;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
 }
